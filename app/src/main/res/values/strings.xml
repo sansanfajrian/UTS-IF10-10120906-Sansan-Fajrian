@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">MySelf Apps</string>
+
+    <!-- bottom menu -->
+    <string name="home">Home</string>
+    <string name="activity">Activity</string>
+    <string name="gallery">Gallery</string>
+    <string name="music">Music</string>
+    <string name="profile">Profile</string>
+
+    <!-- apps -->
+    <string name="myName">Sansan Fajrian</string>
+    <string name="myDescription">I was born in Cimahi in 2000, and I grew up in Bandung until now. After graduating from vocational highschool, I work in software house to pursue my career as backend developer and simultaneously i am taking higher education at UNIKOM Bandung.</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="facebook">Facebook</string>
+    <string name="instagram">Instagram</string>
+    <string name="find_me">Find Me</string>
+    <string name="about_apps">About Apps</string>
+    <string name="shiawase">Back Number - Shiawase</string>
+    <string name="lemon">Harutya - Lemon By Kenshi Yonezhu</string>
+    <string name="haiirotoao">Yurisa - Haiiro To Ao By Kenshi Yonezhu</string>
+    <string name="hbd">Fujikawa Chiai - Happy Birthday By Back Number</string>
+    <string name="heroine">Asako - Heroine By Back Number</string>
+    <string name="sefti">Moch. Seftikara A.M.S</string>
+    <string name="tio">Tio Handika A.R</string>
+    <string name="yanugads">Rifky Yanu P.M</string>
+    <string name="julio">Julio Rahman</string>
+    <string name="prinsa">Prinsa Elisia</string>
+    <string name="friends_list">Friends List</string>
+    <string name="daily_activity">Daily Activity</string>
+    <string name="image_gallery_1">image gallery 1</string>
+    <string name="image_gallery_2">image gallery 2</string>
+    <string name="image_gallery_3">image gallery 3</string>
+    <string name="image_gallery_4">image gallery 4</string>
+    <string name="work">Work</string>
+    <string name="work_desc">I always work and go to office on a weekday</string>
+    <string name="study">Homework</string>
+    <string name="study_campus_materials_and_off_campus_ministers">I always do my homework because they never stop appearing</string>
+    <string name="watch_movies_or_youtube">Freelancing</string>
+    <string name="i_like_watching_movies_and_videos_on_youtube">Beside my occupation, i usually take a side job in my free time for extra income</string>
+    <string name="play_guitar_and_sing">Play guitar and sing</string>
+    <string name="gaming">Gaming</string>
+    <string name="i_like_playing_mobile_and_pc_games">I like to play games in my daily basis</string>
+    <string name="hobby">Hobby</string>
+    <string name="interest">Interest</string>
+    <string name="game_developer">Game Developer</string>
+    <string name="future_goals">Future Goals</string>
+    <string name="coding">Coding</string>
+    <string name="ramen">Ramen</string>
+    <string name="tea">Tea</string>
+    <string name="makes">Makes</string>
+    <string name="mikes">Mikes</string>
+    <string name="ok">OK</string>
+
+    <!-- dialog -->
+    <string name="dialog_type">About Apps</string>
+    <string name="dialog_title">MySelf Apps</string>
+    <string name="dialog_desc">v1.0</string>
+    <string name="email">Email</string>
+
+</resources>
